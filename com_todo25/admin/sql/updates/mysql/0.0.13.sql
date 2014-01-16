@@ -1,0 +1,2 @@
+ALTER TABLE `#__todo25` ADD `params` VARCHAR(1024) NOT NULL DEFAULT '';
+

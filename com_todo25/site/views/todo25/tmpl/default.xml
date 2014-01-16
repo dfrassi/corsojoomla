@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<layout title="COM_TODO25_TODO25_VIEW_DEFAULT_TITLE">
+		<message>COM_TODO25_TODO25_VIEW_DEFAULT_DESC</message>
+	</layout>
+	<fields name="request" addfieldpath="/administrator/components/com_todo25/models/fields">
+		<fieldset name="request">
+			<field
+				name="id"
+				type="todo25"
+				label="COM_TODO25_TODO25_FIELD_GREETING_LABEL"
+				description="COM_TODO25_TODO25_FIELD_GREETING_DESC"
+			/>
+		</fieldset>
+	</fields>
+</metadata>
