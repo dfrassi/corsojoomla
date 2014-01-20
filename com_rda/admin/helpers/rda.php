@@ -4,7 +4,7 @@
 defined('_JEXEC') or die;
 
 /**
- * rda component helper.
+ * rda component helper....
  */
 abstract class rdaHelper
 {
